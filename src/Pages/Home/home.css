@@ -1,0 +1,16 @@
+.tituloHome{
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 2rem;
+    color: yellow;
+}
+
+.grillaCards{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
